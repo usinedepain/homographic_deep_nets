@@ -1,4 +1,4 @@
-# Vierernet
+# Projectively equivariant neural networks
 
 This repository contains code used for the experiments in the paper ... . It is mainly released for transparency and reproducibility purposes. Should you however find this code useful for your research, please cite us.
 
