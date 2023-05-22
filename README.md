@@ -1,9 +1,19 @@
 # Projectively equivariant neural networks
 
-This repository contains code used for the experiments in the paper ... . It is mainly released for transparency and reproducibility purposes. Should you however find this code useful for your research, please cite us.
+This repository contains code used for the experiments in the paper 
+```
+@article{bokman2023projEqNetwork,
+  title={In Search of Projectively Equivariant Neural Networks},
+  author={Bökman, Georg and Flinth, Axel and Kahl, Fredrik},
+  journal={arXiv:2209.14719v2},
+  year={2023}
+```
+It is mainly released for transparency and reproducibility purposes. Should you however find this code useful for your research, please cite us!
 
+### Spinor Field Networks
+Simply run the provided jupyter notebook.
 
-## Running experiments
+### Vierernet
 To run an experiment, run viererconv.py with arguments number of epochs per experiment, number of experiment, dataset name ('mnist', 'cifar_single' or 'cifar_double') and directory to save in (optional). For example, to run 
 the mnist experiment as done in the paper, run
 
