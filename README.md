@@ -7,6 +7,7 @@ This repository contains code used for the experiments in the paper
   author={Bökman, Georg and Flinth, Axel and Kahl, Fredrik},
   journal={arXiv:2209.14719v2},
   year={2023}
+  }
 ```
 It is mainly released for transparency and reproducibility purposes. Should you however find this code useful for your research, please cite us!
 
