@@ -3,7 +3,7 @@
 This repository contains code used for the experiments in the paper 
 ```
 @article{bokman2023projEqNetwork,
-  title={In Search of Projectively Equivariant Neural Networks},
+  title={In Search of Projectively Equivariant Networks},
   author={Bökman, Georg and Flinth, Axel and Kahl, Fredrik},
   journal={arXiv:2209.14719v2},
   year={2023}
